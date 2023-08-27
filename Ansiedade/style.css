@@ -1,0 +1,21 @@
+body{
+    background-color: #cecedd;
+    color: #234904;
+}
+
+div{
+    display: flex;
+}
+img#demoSlei{
+    width: 50%;
+    height: 200px;
+    border: 2px solid rgb(0, 255, 13);
+    margin-right: 20px;
+}
+
+ul li{
+    display: inline-block;
+    margin: 10px;
+    background-color: #c8d02e;
+    padding: 15px;
+}
